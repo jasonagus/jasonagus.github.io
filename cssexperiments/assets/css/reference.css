@@ -1,0 +1,126 @@
+body { 
+background-color: blue;
+ }
+
+
+.circle{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+.circle:hover {
+	width: 400;
+	height: 100px;
+	background: blue;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-image: url(http://i211.photobucket.com/albums/bb125/mXckid555/StaticTV.gif);
+    background-color: #cccccc;
+
+}
+
+.circle:active{
+	width: 400;
+	height: 100px;
+	background: darkblue;
+	float: right;
+}
+
+.circle2 {
+	width: 200px;
+	height: 200px;
+	background: blue;
+	box-shadow: 10px 10px 5px #888888;
+	border-radius: 20px;
+}
+
+
+.rectangle {
+	width: 400px;
+	height: 400px;
+	background: blue;
+}
+
+.rectangle:hover {
+	width: 500px;
+	height: 400px;
+	background: green;
+	background: wrap;
+	background-image: url(http://3.bp.blogspot.com/-EyTh_o7DiDk/U2b1XMXsxfI/AAAAAAAA_8A/-StVuTB9uHE/s1600/tumblr_m8yw1l8Yz81ren0e8o1_500.gif);
+
+}
+
+.rectangle2 {
+	background: blue;
+	width: 200px;
+	height: 200px;
+	background: wrap;
+}
+
+.rectangle2:hover {
+	width: 200px;
+	height: 200px;
+	background: green;
+	background: wrap;
+	background-image: url(http://3.bp.blogspot.com/-EyTh_o7DiDk/U2b1XMXsxfI/AAAAAAAA_8A/-StVuTB9uHE/s1600/tumblr_m8yw1l8Yz81ren0e8o1_500.gif);
+}
+
+.line {
+	width: 100px;
+	height: 100px;
+	background-image: url(http://www.digitalmediatree.com/library/image/12/TVSTTR.gif);
+}
+
+
+.line:hover {
+	width: 600px;
+	height: 120px;
+	background: green;
+	background-image: url(http://www.digitalmediatree.com/library/image/12/TVSTTR.gif);
+
+}
+
+.line:active {
+	width: 200px;
+	height: 200px;
+	background-color:blue;
+	 }
+
+.butter {
+	width: 100px;
+	height: 100px;
+}
+.scroller {
+	font-weight: heavy;
+	font-color: white;
+	font-size: 25px;
+
+}
+
+.scroller:hover {
+	   
+	    color: orange;
+	    font-family: impact;
+	    font-size: 100px;
+	    background-size: 190px;
+	    backgroundimage: url(http://www.clickreadshare.com/wp-content/uploads/Constant-Descent-Trippy-Gif.gif);
+}
+
+.text {
+font-size: 50px;
+font-style: bold;
+color: white;
+float:right;
+}
+
+.left{
+	position: relative;
+	top:50px;
+	left:100px;
+}
+

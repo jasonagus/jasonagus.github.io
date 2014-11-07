@@ -1,0 +1,318 @@
+body { 
+ background-color: #139b96;
+ background-size: 800px;
+ }
+
+.arrow {
+	width: 200px; 
+	height: 200px; 
+	background-color: red;
+	position: absolute;
+	top:50px;
+	right: 100px;
+}
+
+.arrow2 {
+	width: 100px; 
+	height: 100px; 
+	background-color: green;
+	position: absolute;
+	top:200px;
+	right: 150px;
+}
+
+.arrow3 {
+	width: 100px; 
+	height: 100px; 
+	background-color: green;
+	position: absolute;
+	top:350px;
+	right: 150px;
+}
+
+.arrow4 {
+	width: 200px; 
+	height: 200px; 
+	background-color: red;
+	position: absolute;
+	top:400px;
+	right: 100px;
+}
+
+.rectangle {
+	height: 590px;
+	width: 790px;
+	background-image: url(http://images2.fanpop.com/images/photos/6900000/Cute-dolphins-dolphins-6939939-1024-768.jpg);
+	position: relative;
+	top:0;
+	left:0;
+	z-index: -1;
+}
+
+.center {
+	text-align: center;
+}
+
+.box{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+}
+
+.box:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+opacity: .4
+}
+
+.box2{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:0px;
+left:200px;
+border:2px solid;
+border-color: white;
+}
+
+.box2:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+
+.box3{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:0px;
+left:400px;
+border:2px solid;
+border-color: white;
+}
+
+.box3:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box4{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:0px;
+left:600px;
+border:2px solid;
+border-color: white;
+}
+
+.box4:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box5{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:200px;
+left:0px;
+border:2px solid;
+border-color: white;
+}
+
+.box5:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box6{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:200px;
+left:200px;
+border:2px solid;
+border-color: white;
+}
+
+.box6:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box7{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:200px;
+left:400px;
+border:2px solid;
+border-color: white;
+}
+
+.box7:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box8{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:200px;
+left:600px;
+border:2px solid;
+border-color: white;
+}
+
+.box8:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box9{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:400px;
+left:0px;
+border:2px solid;
+border-color: white;
+}
+
+.box9:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box10{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:400px;
+left:200px;
+border:2px solid;
+border-color: white;
+}
+
+.box10:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box11{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:400px;
+left:400px;
+border:2px solid;
+border-color: white;
+}
+
+.box11:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
+.box12{
+width:200px;
+height:200px;
+background-color: #9b1346;
+position: absolute;
+top:400px;
+left:600px;
+border:2px solid;
+border-color: white;
+}
+
+.box12:hover{
+width:200px;
+height:200px;
+position: absolute;
+top:0px;
+left:0px;
+border:2px solid;
+border-color: white;
+opacity: .4;
+}
+
