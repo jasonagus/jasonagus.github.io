@@ -1,0 +1,17 @@
+h1 {
+    color: Dark Green;
+    font-size: 24px;
+    position: absolute;
+    top:200px;
+    right:300px; 
+}
+    
+a {
+    color: green;
+    font-family: arial black;
+    position: absolute;
+    top:275px;
+    left: 310px;
+    font-size: 18px; 
+    
+}
