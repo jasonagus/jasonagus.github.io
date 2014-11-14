@@ -2,17 +2,12 @@ body {
   margin:0;
   padding:0;
 }
-
-h1 {
-    color: Blue;
-    font-family:gill sans;
-    font-size: 24px;
-    text-align:center;
-}
-    
-a {
-    color: green;
-    font-family: arial black;
-    align:center;
-    
+.content {
+    position: absolute;
+    width: 415px;
+    height: 136px;
+    top: 0px;
+    left: 50%;
+    text-align: center;
+    transform: translate (-50%,50%);
 }
