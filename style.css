@@ -1,13 +1,21 @@
 body {
   margin:0;
   padding:0;
+  background-color:#29779b;
 }
 .content {
+    font-family:'Trebuchet MS';  
+    font-style:bold;
+  
     position: absolute;
-    width: 415px;
-    height: 136px;
-    top: 0px;
-    left: 50%;
-    text-align: center;
-    transform: translate (-50%,50%);
+    top: 200px;
+    left:30%;
+    color: white;
 }
+.circle {
+  position: absolute;
+  top: 90px;
+  left:30%;
+  height:25px
+  width:auto;
+  }
